@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou a Luana! 👋
 
-<!--
-**luana-coelho/luana-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e do último semestre de Fisioterapia.
 
-Here are some ideas to get you started:
+💻 Desenvolvedora Full Stack em formação, apaixonada por tecnologia, resolução de problemas e criação de aplicações que gerem impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Node.js (em aprendizado)
+
+## 🌟 Projeto em destaque
+
+### 🧠 Movara AI
+
+Sistema de gestão clínica desenvolvido para auxiliar fisioterapeutas no cadastro de pacientes, avaliações clínicas e apoio à tomada de decisão.
+
+🔗 **Projeto:** https://github.com/luana-coelho/movara-ai
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedora Full Stack Júnior, onde eu possa aprender, colaborar com a equipe e evoluir tecnicamente construindo soluções de qualidade.
+
+---
+
+⭐ Obrigada por visitar meu perfil!
